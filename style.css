@@ -1,0 +1,39 @@
+.kalal{
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+    background-size:  1350px 610px ;
+    height: 410px;
+    padding-top: 200px;
+    flex-direction: column;
+    background-image: url(1.jpeg) ;
+   }
+button{
+    background-color: rgb(252, 207, 2);
+    color: black;
+    width: 130px;
+    height: 40px;
+    /* top: 389px; */
+    /* position: absolute; */
+    /* left: 540px; */
+    border: 1px ;
+   
+}
+.e{
+    /* position: absolute;
+    top: 150px;
+    left: 450px; */
+    color: wheat;
+}
+.m{
+    color: rgb(252, 207, 2);
+    /* position: absolute;
+    top: 210px;
+    left: 425px; */
+}
+.y{
+    /* position: absolute;
+    top: 260px;
+    left: 515px; */
+    color: wheat;
+}
